@@ -7,7 +7,9 @@ In der Datei "quiz_fragen_antworten.txt" stehen die Fragen und die dazugehörige
 Beispiel: 
 
   Deine Frage: "Was bin ich?"
+  
   Die richige Antwort: "Mensch"
+  
   Antwortmöglichkeiten: "Gemüse; Fisch; Maus; Mensch"
  
 So schreibst du sie in die Datei:
